@@ -13,8 +13,8 @@ and extracurricular initiatives.
 
 -   ✅ **Industry-ready projects** in AI/ML, Web Development, and DSA\
 -   ✅ **Beginner-friendly implementations** of real-world applications
-    (chatbots, trackers, games, emotion detection, etc.)\
--   ✅ **Strong foundation in problem-solving** (DSA, recursion,
+    (chatbots, trackers, games, etc.)\
+-   ✅ **Strong foundation in problem-solving** (DSA,
     LeetCode practice)\
 -   ✅ **Event leadership & management experience** through AiMSA & GFG
     initiatives
@@ -23,7 +23,7 @@ and extracurricular initiatives.
 
 Recruiters will find evidence of: - **Technical Depth** -- Hands-on
 coding projects (C++, Python, Web)\
-- **Applied AI/ML** -- Emotion detection, attendance predictor, and
+- **Applied AI/ML** --  attendance predictor, Handwritten Digit Recognition and
 mental health analysis models\
 - **Practical Web Dev** -- Personal portfolio, GitHub Pages/Vercel
 deployment\
@@ -36,8 +36,7 @@ organizing technical events
     demonstrating structured coding\
 -   🎮 **2D Side-Scrolling Game (Pygame)** -- Game dev with animation,
     physics & GitHub deployment\
--   🤖 **Emotion-from-Face Detector (Python + OpenCV)** -- AI project
-    with real-world applicability\
+-   🤖 **Handwritten Digit Recognition** -- ML project\
 -   📊 **AI Attendance Advisor** -- Predicts attendance eligibility with
     ML models\
 -   🌐 **Personal Portfolio Website** -- Built with HTML, CSS, JS &
@@ -45,11 +44,11 @@ organizing technical events
 
 ## ⚡ Tech Stack
 
--   **Languages:** C++, Python, Java, JavaScript\
--   **Libraries/Frameworks:** OpenCV, Pygame, scikit-learn, pandas,
+-   **Languages:**C, C++, Python, Java, JavaScript\
+-   **Libraries/Frameworks:** Pygame, scikit-learn, pandas,
     numpy\
 -   **Tools:** Git, GitHub, Vercel, VS Code\
--   **Core Skills:** DSA, OOP, AI/ML fundamentals, event management
+-   **Core Skills:** DSA, OOP, AI/ML fundamentals
 
 ------------------------------------------------------------------------
 
